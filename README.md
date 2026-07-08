@@ -174,6 +174,6 @@ MBA (Finance & HR)
 - Data Analytics
 - Business Intelligence
 
-📧 Email: your-email@example.com
+📧 Email: mdfarhan.yes@gmail.com
 
 🔗 LinkedIn: www.linkedin.com/in/md-farhan-6a15b0200
