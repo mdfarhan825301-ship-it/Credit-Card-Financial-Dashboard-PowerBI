@@ -1,4 +1,3 @@
-[README_credit_card_dashboard.md](https://github.com/user-attachments/files/29838646/README_credit_card_dashboard.md)
 # Credit Card Financial Dashboard - Power BI
 
 ## Project overview
