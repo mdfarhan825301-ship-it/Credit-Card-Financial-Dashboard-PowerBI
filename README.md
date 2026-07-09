@@ -1,95 +1,53 @@
-# 💳 Credit Card Financial Dashboard | Power BI
+[README_credit_card_dashboard.md](https://github.com/user-attachments/files/29838646/README_credit_card_dashboard.md)
+# Credit Card Financial Dashboard - Power BI
 
----
+## Project overview
 
-# 📌 Project Overview
+I built this Credit Card Financial Dashboard in Power BI to look at customer behavior, how transactions were performing, revenue trends, spending habits, and the key financial numbers that actually matter to a business like this. The idea was to give stakeholders one place to check on financial performance, understand who their customers really are, spot which segments bring in the most value, and make decisions based on real numbers instead of guesswork.
 
-This project presents an interactive **Credit Card Financial Dashboard** built in **Power BI** to analyze customer behavior, transaction performance, revenue trends, spending patterns, and business KPIs.
+## Business questions this answers
 
-The dashboard enables stakeholders to monitor financial performance, understand customer demographics, identify high-value customer segments, and support data-driven business decisions.
+- How is the business performing financially overall?
+- Which customer segments generate the most revenue?
+- How does revenue differ by state and by age group?
+- Which card category brings in the most money?
+- What do customer spending patterns look like?
+- Which transaction methods do people actually use?
+- How has revenue changed over time?
+- What do the key financial KPIs look like at a glance?
 
----
+## Tools I used
 
-# 🎯 Business Objectives
+Power BI, SQL, Microsoft Excel, Power Query, and DAX.
 
-The dashboard helps answer the following business questions:
-
-- What is the overall financial performance?
-- Which customer segments generate the highest revenue?
-- How does revenue vary across states and age groups?
-- Which card category contributes the most revenue?
-- What are customer spending patterns?
-- Which transaction methods are most frequently used?
-- How does revenue change over time?
-- What are the key financial KPIs?
-
----
-
-# 🛠 Tech Stack
-
-- Power BI
-- SQL
-- Microsoft Excel
-- Power Query
-- DAX
-
----
-
-# 📂 Repository Structure
+## Repo structure
 
 ```
 Credit-Card-Financial-Dashboard-PowerBI
-│
-├── Dataset/
-├── Dashboard/
-├── Images/
-├── Documentation/
-├── Presentation/
-└── README.md
+    Dataset/
+    Dashboard/
+    Images/
+    Documentation/
+    Presentation/
+    README.md
 ```
 
----
+## Dashboard preview
 
-# 📊 Dashboard Preview
+There are two main views: a Customer Dashboard and a Transaction Dashboard.
 
-## Customer Dashboard
+Pbix file: https://drive.google.com/file/d/1dh82Kvk2lTMKJ4W7dms0ltTDtEbFuZQe/view?usp=drive_link
 
-![Customer Dashboard] & [Transaction Dashboard]
-Pbix File Link:- https://drive.google.com/file/d/1dh82Kvk2lTMKJ4W7dms0ltTDtEbFuZQe/view?usp=drive_link
+## What's in the dashboard
 
----
+Customer side covers demographics, revenue by gender, revenue by age group, revenue by education level, revenue by income group, revenue by card category, revenue by state, and the monthly revenue trend.
 
----
+Transaction side covers revenue by transaction type, spending category breakdown, running revenue trend, weekly revenue, revenue by expenditure type, customer spending patterns, and revenue by gender again from a transaction angle.
 
-# 📈 Dashboard Features
+## Key metrics tracked
 
-### Customer Analytics
-
-- Customer Demographics
-- Revenue by Gender
-- Revenue by Age Group
-- Revenue by Education
-- Revenue by Income Group
-- Revenue by Card Category
-- Revenue by State
-- Monthly Revenue Trend
-
-### Transaction Analytics
-
-- Revenue by Transaction Type
-- Spending Category Analysis
-- Running Revenue Trend
-- Weekly Revenue
-- Revenue by Expenditure Type
-- Customer Spending Pattern
-- Revenue by Gender
-
----
-
-# 📊 Key Performance Indicators
-
-| KPI | Description |
-|------|-------------|
+| Metric | What it tells you |
+|---|---|
 | Total Customers | Number of active customers |
 | Total Revenue | Overall revenue generated |
 | Average Income | Average customer income |
@@ -98,82 +56,35 @@ Pbix File Link:- https://drive.google.com/file/d/1dh82Kvk2lTMKJ4W7dms0ltTDtEbFuZ
 | Utilization Rate | Credit utilization percentage |
 | Delinquency Rate | Default risk indicator |
 | Activation Rate | Percentage of active cards |
-| Weekly Revenue | Revenue generated in the latest week |
+| Weekly Revenue | Revenue generated in the most recent week |
 
----
+## What the data showed
 
-# 📈 Business Insights
+On the customer side, male customers account for roughly 75 percent of total revenue. Customers between 46 and 55 years old generate the most revenue of any age group. Graduates make up the biggest revenue contribution by education level. Blue card holders account for the majority of total revenue, and married customers bring in more revenue than single customers.
 
-### Customer Insights
+On the transaction side, swipe transactions bring in the largest share of revenue, and bills and fuel are the two biggest expenditure categories. Revenue growth has been fairly consistent, with some seasonal ups and downs, and tracking it weekly turned out to be a good way to catch performance shifts early.
 
-- Male customers contribute approximately **75%** of total revenue.
-- Customers aged **46–55 years** generate the highest revenue.
-- Graduate customers represent the highest revenue contribution.
-- Blue Card holders account for the majority of total revenue.
-- Married customers contribute more revenue than single customers.
+## Skills this project involved
 
-### Transaction Insights
+Power BI dashboard development, data modeling, DAX measures, Power Query, business intelligence, KPI design, financial analytics, customer analytics, and data storytelling in general.
 
-- Swipe transactions contribute the highest share of revenue.
-- Bills and Fuel are the largest expenditure categories.
-- Revenue shows consistent growth with seasonal fluctuations.
-- Weekly revenue monitoring helps identify business performance trends.
+## Files included
 
----
-
-# 🚀 Skills Demonstrated
-
-- Power BI Dashboard Development
-- Data Modeling
-- DAX Measures
-- Power Query
-- Business Intelligence
-- KPI Design
-- Financial Analytics
-- Customer Analytics
-- Data Storytelling
-- Interactive Reporting
-
----
-
-# 📁 Project Files
-
-| Folder | Description |
-|---------|-------------|
+| Folder | What's in it |
+|---|---|
 | Dataset | Source data |
 | Dashboard | Power BI dashboard |
 | Images | Dashboard screenshots |
 | Documentation | Business documentation |
 | Presentation | Project presentation |
 
----
+## What I'd add next
 
-# 📌 Future Enhancements
+Customer lifetime value tracking, revenue forecasting, a dedicated fraud detection view, more granular customer segmentation, some predictive analytics, and a mobile-friendly version of the dashboard.
 
-- Customer Lifetime Value (CLV)
-- Revenue Forecasting
-- Fraud Detection Dashboard
-- Customer Segmentation
-- Predictive Analytics
-- Mobile Dashboard
+## About me
 
----
+I'm Md Farhan, MBA in Finance and HR. Skills: Power BI, SQL, Excel, DAX, data analytics, and business intelligence.
 
-# 👨‍💻 Author
-
-**Md Farhan**
-
-MBA (Finance & HR)
-
-### Skills
-
-- Power BI
-- SQL
-- Excel
-- DAX
-- Data Analytics
-- Business Intelligence
-
-📧 Email: mdfarhan.yes@gmail.com
-
-🔗 LinkedIn: www.linkedin.com/in/md-farhan-6a15b0200
+Email: mdfarhan.yes@gmail.com
+LinkedIn: www.linkedin.com/in/md-farhan-6a15b0200
